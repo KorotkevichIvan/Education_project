@@ -1,0 +1,6 @@
+text = input('Введите предложение: \n')
+print(text[2])
+print(text[-2])
+print(text[:5])
+print(text[:-2])
+print(text[::2])
